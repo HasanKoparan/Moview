@@ -39,7 +39,8 @@ Coming soon via GitHub Pages!
 
 ## Screenshots
 
-![screenshot](screenshot.png) *(optional)*
+![Uploading Ekran Resmi 2026-03-05 03.09.51.png…]()
+
 
 ---
 
