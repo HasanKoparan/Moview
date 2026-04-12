@@ -18,7 +18,13 @@ A dynamic movie discovery app built with vanilla JavaScript and the TMDB API. Br
 - 📱 Fully responsive layout
 - ⚡ Real-time data from TMDB API
 
------
+----
+<img width="1759" height="1013" alt="Ekran Resmi 2026-04-12 22 10 11" src="https://github.com/user-attachments/assets/8d11bab5-f38c-46b1-8504-bcf5a8206775" />
+<img width="600" height="343" alt="Ekran Resmi 2026-04-12 21 43 04" src="https://github.com/user-attachments/assets/c995c060-dfe8-4cce-98bd-f99c498c4aa8" />
+
+
+
+-
 
 ## 🛠️ Built With
 
