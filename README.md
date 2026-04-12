@@ -3,7 +3,7 @@
 A dynamic movie discovery app built with vanilla JavaScript and the TMDB API. Browse popular movies on load, search by title, and see color-coded ratings at a glance.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/Moview)**
-
+https://hasankoparan.github.io/Moview/
 -----
 
 ## ✨ Features
